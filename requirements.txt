@@ -1,0 +1,10 @@
+pypdf>=5.0
+pydantic>=2.7
+numpy>=1.26
+langchain>=1.0
+langgraph>=0.6
+langchain-google-genai>=2.1
+langchain-chroma>=0.2
+chromadb>=1.0
+google-genai>=1.0
+

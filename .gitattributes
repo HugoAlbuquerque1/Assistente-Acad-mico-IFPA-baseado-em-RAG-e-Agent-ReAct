@@ -1,0 +1,8 @@
+*.pdf binary
+*.pptx binary
+*.docx binary
+*.ipynb text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.example text eol=lf
